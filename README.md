@@ -1,6 +1,6 @@
 # Desafio 40 exercícios com javascript!
 ## O objetivo desse desafio foi tentar fazer os projetos sozinho :)
-### Obs: Alguns gifs ficam bugando mas no projeto da tudo certo.
+### Obs: Alguns gifs ficaram bugandos mas no projeto da tudo certinho.
 
 ##
 
