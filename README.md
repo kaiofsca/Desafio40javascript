@@ -1,4 +1,4 @@
-# Desafio 40 exercícios com javascript!
+# Desafios e exercícios com javascript!
 ## O objetivo desse desafio foi tentar fazer os projetos sozinho :)
 ### Obs: Desculpe pela qualidade dos gifs :(
 
